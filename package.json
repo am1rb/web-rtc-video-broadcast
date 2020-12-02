@@ -1,0 +1,11 @@
+{
+  "name": "web-rtc-video-broadcast",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Amir Beshkar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}
